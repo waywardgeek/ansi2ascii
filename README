@@ -1,0 +1,3 @@
+This tiny program simply converts ANSI text to readable ASCII text, assuming the
+reader is English.  It is usefule for converting the many ANSI web pages to
+ASCII prior to using a screen reader, for example.
